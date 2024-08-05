@@ -1,11 +1,11 @@
 ---
 permalink: /about/
-title: "Mark Down rule"
+title: "Mark Down Rule"
 toc: true
 toc_sticky: true
 toc_label: "MarkDown"
 categories: [MarkDown]
-tag: [MD]
+tag: [ETC]
 sidebar:
     nav: "counts"
 ---
